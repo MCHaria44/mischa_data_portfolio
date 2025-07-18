@@ -16,6 +16,15 @@ An executive-style Tableau dashboard that explores global video game sales:
   **Branding:** Digital Native’s official palette  
   Screencam included
 
+### MyFitnessPal Nutrition Insights Dashboard
+Personalized nutrition insights using detailed exported food logs. The dashboard highlights:
+- Daily and weekly nutrient intake patterns
+- Macro and micronutrient breakdowns
+- Calorie and protein goals tracking over time
+- Interactive visuals for easy exploration
+  **Tools:** Google Sheets, SQL (queries for data preparation)
+  Data cleaning, aggregation, and visualization
+
 ---
 
 ##  Upcoming Projects
@@ -23,10 +32,6 @@ An executive-style Tableau dashboard that explores global video game sales:
 ### NHS A&E Waiting Times
 Time series analysis and dashboard using NHS England A&E data.  
   **Tools:** Excel, Tableau, Power BI
-
-### MyFitnessPal Nutrition Insights
-Personalised nutrition breakdown and dashboard using exported food logs.  
-  **Tools:** SQL, Power BI
 
 ### Family Business Product Database
 Inventory, sales, and order management system for a handmade product business (Wix + Etsy).  
