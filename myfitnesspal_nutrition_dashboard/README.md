@@ -23,6 +23,6 @@ This project analyses over 4 weeks of personal nutrition data from MyFitnessPal.
 - Added binary indicators (Y/N) for days logged
 
 ## Preview
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](MyFitnessPal_Dashboard.png)
 
 
