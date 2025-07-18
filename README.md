@@ -16,7 +16,7 @@ An executive-style Tableau dashboard that explores global video game sales:
   **Branding:** Digital Native’s official palette  
   Screencam included
 
-### MyFitnessPal Nutrition Insights Dashboard
+### [MyFitnessPal Nutrition Insights Dashboard](./myfitnesspal-dashboard)
 Personalized nutrition insights using detailed exported food logs. The dashboard highlights:
 - Daily and weekly nutrient intake patterns
 - Macro and micronutrient breakdowns
